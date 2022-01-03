@@ -1,0 +1,14 @@
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\220103\UnityLesson02_01\UnityLesson\bin\Debug\netcoreapp3.1\UnityLesson.exe
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\220103\UnityLesson02_01\UnityLesson\bin\Debug\netcoreapp3.1\UnityLesson.deps.json
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\220103\UnityLesson02_01\UnityLesson\bin\Debug\netcoreapp3.1\UnityLesson.runtimeconfig.json
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\220103\UnityLesson02_01\UnityLesson\bin\Debug\netcoreapp3.1\UnityLesson.runtimeconfig.dev.json
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\220103\UnityLesson02_01\UnityLesson\bin\Debug\netcoreapp3.1\UnityLesson.dll
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\220103\UnityLesson02_01\UnityLesson\bin\Debug\netcoreapp3.1\UnityLesson.pdb
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\220103\UnityLesson02_01\UnityLesson\obj\Debug\netcoreapp3.1\UnityLesson.csproj.AssemblyReference.cache
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\220103\UnityLesson02_01\UnityLesson\obj\Debug\netcoreapp3.1\UnityLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\220103\UnityLesson02_01\UnityLesson\obj\Debug\netcoreapp3.1\UnityLesson.AssemblyInfoInputs.cache
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\220103\UnityLesson02_01\UnityLesson\obj\Debug\netcoreapp3.1\UnityLesson.AssemblyInfo.cs
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\220103\UnityLesson02_01\UnityLesson\obj\Debug\netcoreapp3.1\UnityLesson.csproj.CoreCompileInputs.cache
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\220103\UnityLesson02_01\UnityLesson\obj\Debug\netcoreapp3.1\UnityLesson.dll
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\220103\UnityLesson02_01\UnityLesson\obj\Debug\netcoreapp3.1\UnityLesson.pdb
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\220103\UnityLesson02_01\UnityLesson\obj\Debug\netcoreapp3.1\UnityLesson.genruntimeconfig.cache
