@@ -1,0 +1,14 @@
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220128)\bin\Debug\netcoreapp3.1\UnityLesson(220128).exe
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220128)\bin\Debug\netcoreapp3.1\UnityLesson(220128).deps.json
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220128)\bin\Debug\netcoreapp3.1\UnityLesson(220128).runtimeconfig.json
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220128)\bin\Debug\netcoreapp3.1\UnityLesson(220128).runtimeconfig.dev.json
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220128)\bin\Debug\netcoreapp3.1\UnityLesson(220128).dll
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220128)\bin\Debug\netcoreapp3.1\UnityLesson(220128).pdb
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220128)\obj\Debug\netcoreapp3.1\UnityLesson(220128).csproj.AssemblyReference.cache
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220128)\obj\Debug\netcoreapp3.1\UnityLesson(220128).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220128)\obj\Debug\netcoreapp3.1\UnityLesson(220128).AssemblyInfoInputs.cache
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220128)\obj\Debug\netcoreapp3.1\UnityLesson(220128).AssemblyInfo.cs
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220128)\obj\Debug\netcoreapp3.1\UnityLesson(220128).csproj.CoreCompileInputs.cache
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220128)\obj\Debug\netcoreapp3.1\UnityLesson(220128).dll
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220128)\obj\Debug\netcoreapp3.1\UnityLesson(220128).pdb
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220128)\obj\Debug\netcoreapp3.1\UnityLesson(220128).genruntimeconfig.cache
