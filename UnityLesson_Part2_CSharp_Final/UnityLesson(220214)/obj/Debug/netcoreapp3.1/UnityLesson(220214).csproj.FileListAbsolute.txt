@@ -1,0 +1,14 @@
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220214)\bin\Debug\netcoreapp3.1\UnityLesson(220214).exe
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220214)\bin\Debug\netcoreapp3.1\UnityLesson(220214).deps.json
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220214)\bin\Debug\netcoreapp3.1\UnityLesson(220214).runtimeconfig.json
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220214)\bin\Debug\netcoreapp3.1\UnityLesson(220214).runtimeconfig.dev.json
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220214)\bin\Debug\netcoreapp3.1\UnityLesson(220214).dll
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220214)\bin\Debug\netcoreapp3.1\UnityLesson(220214).pdb
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220214)\obj\Debug\netcoreapp3.1\UnityLesson(220214).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220214)\obj\Debug\netcoreapp3.1\UnityLesson(220214).AssemblyInfoInputs.cache
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220214)\obj\Debug\netcoreapp3.1\UnityLesson(220214).AssemblyInfo.cs
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220214)\obj\Debug\netcoreapp3.1\UnityLesson(220214).csproj.CoreCompileInputs.cache
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220214)\obj\Debug\netcoreapp3.1\UnityLesson(220214).dll
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220214)\obj\Debug\netcoreapp3.1\UnityLesson(220214).pdb
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220214)\obj\Debug\netcoreapp3.1\UnityLesson(220214).genruntimeconfig.cache
+C:\Users\kimsa\Documents\GitHub\UnityLesson2\UnityLesson_Part2_CSharp_Final\UnityLesson(220214)\obj\Debug\netcoreapp3.1\UnityLesson(220214).csproj.AssemblyReference.cache
